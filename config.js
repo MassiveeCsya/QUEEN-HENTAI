@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'MassiveCsya🌐'
+global.botname = '🌐 MassiveCsya 🌐'
 global.premium = 'true'
 global.packname = '🌐 Massive Csya 🌐 Created By 🌐 Winn Csya²⁰²³ 🌐' 
 global.author = '🌐 WinnCsya Official²⁰²³ 🌐' 
